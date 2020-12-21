@@ -1,0 +1,7 @@
+{
+  "bucket": "teradekcloudtestbucket",
+  "region": "eu-west-3",
+  "videoKey": "video.ts",
+  "previewKey": "preview_Pavel_Solomienko.jpg",
+  "previewIntervalMs": 5000
+}
